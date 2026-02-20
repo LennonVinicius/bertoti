@@ -6,6 +6,14 @@ O engenheiro de Software é o engenheiro mais "teórico que existe", ele trabalh
 
 Essa área de estudo é como qualquer outra, tem ferramentas necessárias para usar na profissão, e essas ferramentas se encaixam melhor em ocasiões diferentes, as próprias linguagens de programação reagem a esse tipo de ideia, Python pode ser melhor para algumas aplicações, e C++ melhor para outras, depende da complexidade, tempo e escala do projeto.
 
+#Requisitos não funcionais
+
+1°:Escalabilidade - Propriedade de suportar um número maior de ações
+2°:Extensibilidade - A facilidade dos desenvolvedores estender o sistema com novas funcionalidade sem alterar a estrutura principal
+3°:Disponibilidade- A habilidade do sistema "rodar" bem o programa em um tempo consideravelmente curto
+4°:Desacoplamento- Prática de arquitetura de sistemas referente a separação de softwares, sistemas e componentes funcionais mantendo o funcionamento independente
+5°:Testabilidade- O quão fácil é verificar o funcionamento do sistemas utilizando testes.
+ 
 #Trade offs
 
 Carro(Segurança), é mais seguro por conta da sua carcaça física x moto(Preço), é mais barato para manter, porém não é mais seguro
