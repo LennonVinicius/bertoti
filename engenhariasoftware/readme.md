@@ -22,3 +22,14 @@ JavaScript(Simplicidade), é a própria linguagem de programação x React(Foco 
 
 Energia Solar(Mais sustentável para a natureza), ecologicamente correta x Energia Distribuida pela rede elétrica(Mais acessível), é mais barata e acessível para camadas menos favorecidas financeiramente da sociedade
 
+#Sprints do hotel
+Tradicional:
+1°Começar pelas paredes
+2°Andares
+3° Elétrica e encanamento
+4 °Hotel Entregue
+Processo Ágil:
+1° Estrutura da base do hotel
+2°Elétrica e encanamento
+3°Pintura e acabamento
+4°Hotel Entregue
