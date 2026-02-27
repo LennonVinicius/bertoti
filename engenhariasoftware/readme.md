@@ -33,3 +33,9 @@ Processo Ágil:
 2°Elétrica e encanamento
 3°Pintura e acabamento
 4°Hotel Entregue
+
+#Sprint Google
+Dor do usuário: realizar certa pesquisa e receber resultados sem fltross e sem ranking.
+
+Primeiro sprint: Google é entregue como um buscador simples, porém a funcionalidade de busca bem mais aprimorada, ranqueando os sites de acordo com pesquisas anteriores dos usuários.
+
