@@ -35,7 +35,7 @@ Processo Ágil:
 4°Hotel Entregue
 
 #Sprint Google
-Dor do usuário: realizar certa pesquisa e receber resultados sem fltross e sem ranking.
+Dor do usuário: realizar certa pesquisa e receber resultados sem fltros e sem ranking.
 
 Primeiro sprint: Google é entregue como um buscador simples, porém a funcionalidade de busca bem mais aprimorada, ranqueando os sites de acordo com pesquisas anteriores dos usuários.
-
+Próximos sprints: Refinamento do design e aprimoramento do navegador, até chegar no que se conhece, com muitas extensões e funcionalidades para auxiliar o usuário.
